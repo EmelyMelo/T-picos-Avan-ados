@@ -1,0 +1,6 @@
+package lambda;
+
+@FunctionalInterface
+public interface Fatorial {
+	int fatorial(int n);
+}

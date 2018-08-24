@@ -1,0 +1,5 @@
+package src;
+@FunctionalInterface
+public interface Primo {
+	boolean primo (int n);
+}
