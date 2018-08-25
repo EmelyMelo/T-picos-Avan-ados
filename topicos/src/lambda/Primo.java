@@ -1,5 +1,5 @@
 package lambda;
 @FunctionalInterface
 public interface Primo {
-	boolean calcular (int n);
+	boolean calcular(int num);
 }

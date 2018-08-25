@@ -1,5 +1,5 @@
 package lambda;
 @FunctionalInterface
 public interface CalcularMedia {
-	double calcular (double[] vetor);
+	double calcular(double[] vetor);
 }
