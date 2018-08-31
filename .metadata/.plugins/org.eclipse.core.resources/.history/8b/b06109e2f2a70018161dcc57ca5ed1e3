@@ -1,5 +1,0 @@
-package lambda;
-@FunctionalInterface
-public interface Primo {
-	boolean primo (int n);
-}
